@@ -1,8 +1,8 @@
-python 3.10
+
 numpy
 pandas
-maytplotlib
+matplotlib
 seaborn
 tensorflow
 glob2
-scikitlearn
+scikit-learn
